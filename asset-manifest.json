@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/cutterwolf/static/css/main.743de942.css",
-    "main.js": "/cutterwolf/static/js/main.0be3cf2b.js",
+    "main.css": "/cutterwolf/static/css/main.86ef3b0e.css",
+    "main.js": "/cutterwolf/static/js/main.f6cac11c.js",
     "static/media/banner2.png": "/cutterwolf/static/media/banner2.2a462579d973a364f58b.png",
     "static/media/HWlogo.svg": "/cutterwolf/static/media/HWlogo.360c913e764188818cc9379584d40402.svg",
     "static/media/CS_REGULAR.TTF": "/cutterwolf/static/media/CS_REGULAR.3e6e63e5df47125825fe.TTF",
     "index.html": "/cutterwolf/index.html",
-    "main.743de942.css.map": "/cutterwolf/static/css/main.743de942.css.map",
-    "main.0be3cf2b.js.map": "/cutterwolf/static/js/main.0be3cf2b.js.map"
+    "main.86ef3b0e.css.map": "/cutterwolf/static/css/main.86ef3b0e.css.map",
+    "main.f6cac11c.js.map": "/cutterwolf/static/js/main.f6cac11c.js.map"
   },
   "entrypoints": [
-    "static/css/main.743de942.css",
-    "static/js/main.0be3cf2b.js"
+    "static/css/main.86ef3b0e.css",
+    "static/js/main.f6cac11c.js"
   ]
 }
